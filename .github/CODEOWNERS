@@ -2,5 +2,10 @@
 # SPDX-License-Identifier: LicenseRef-Intel-Edge-Software
 # This file is licensed under the Limited Edge Software Distribution License Agreement.
 
-# Default Code Owners 
+# Default Code Owners
 @saratpoluri
+
+
+# documentation content
+/docs @open-edge-platform/open-edge-platform-docs-write
+README.md @open-edge-platform/open-edge-platform-docs-write
